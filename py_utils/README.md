@@ -1,6 +1,6 @@
 # 软件包
 ## 描述
-除主程序main.py外的python文件均应防止于此包,以便调试与管理
+除主程序main.py外的python文件均应位于此包,以便调试与管理
 ## 目录结构
 
 > Py_codes/SQLite/db_manage.py
