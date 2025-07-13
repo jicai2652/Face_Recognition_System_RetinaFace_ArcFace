@@ -28,14 +28,6 @@ torch_utils/
   -  - iresnet.py   :  iResNet网络模型
   -  - retina_net.py    :  RetinaFace网络模型
 ```
-### utilsRetina:
-```
-utilsRetina/
-  - box_utils.py    : 边界框框处理
-  - matlab_cp2tform.py : 相似变换矩阵处理
-  - model_call.py : 模型调用
-  - prior_box.py :先验框生成->返回一个包含所有先验框的张量
-```
 ### 其他操作：
 ```
 ./
