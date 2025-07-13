@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/logo.png</file>
+        <file>fonts/HarmonyOS_SansSC_Medium.ttf</file>
+        <file>homepage.jpg</file>
+        <file>icons/home_page.png</file>
+        <file>icons/face_enroll.png</file>
+        <file>icons/face_recog.png</file>
+        <file>icons/db_manage.png</file>
+    </qresource>
+</RCC>
